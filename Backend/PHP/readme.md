@@ -19,4 +19,6 @@ En esta sección se encontrara el codigo fuente de la aplicación web, aquella q
    |----------|--------|---|-------------|
    |M.T.I. Marco Antonio Ramirez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de Desarrollo de PHP|❌ Sin revisar.|
    |Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Desarrolladora de PHP|✅ Revisado y aprobado|
+   Estructura 
+   ajdjoaáokijal
    
